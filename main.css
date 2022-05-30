@@ -1,0 +1,53 @@
+#form_table{  
+    border-collapse: collapse;  
+    width: 50%;  
+    margin-left: 100px;
+}  
+#form_table td{  
+    padding: 12px;  
+	font-size: 1em;  
+    text-align: center;  
+}  
+#form_table tr{  
+    width :50%;
+    margin-left:300px; 
+}
+#data_table{  
+    border-collapse: collapse;  
+    width: 45%;  
+    margin-left: 300px;
+}  
+#data_table th{  
+    background-color:blue;  
+	padding: 10px;  
+}  
+#data_table td{  
+    padding: 12px;  
+	font-size: 1em; 
+	text-align: center;  
+}  
+#data_table tr{ 
+    background-color:pink; 
+    width :50%;
+    margin-left:300px; 
+}
+
+/*Scrollbar*/
+#data_table {
+	display :block;
+	height:260px;
+	overflow-y:auto;
+	
+	
+}
+#data table tr{
+	display:block;
+	
+	
+}
+#btn_para{
+	width:50%;
+	padding-left:800px;
+	
+}
+	
